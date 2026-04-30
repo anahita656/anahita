@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "name": "quantum-mango-91",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/api/index" }
+  ],
+  "trailingSlash": false
+}
